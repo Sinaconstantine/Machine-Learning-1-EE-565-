@@ -1,4 +1,4 @@
-# Machine-Learning-1-EE-565.
+# Machine Learning I (EE565).
 In this repository, some of my Machine Learning 1 course projects (EE565), are uploaded.  
 
 # Copyright statement (06/13/2020): 
